@@ -13,21 +13,29 @@ User has been thinking that maybe a SVM and Naïve Bayes model might produce bet
 # PRE REQUISITES - SOFTWARES 
 
 Anaconda3 2021.05
+
 Jupyter Notebook 6.3.0
 
 # PRE REQUISITES - CODE REQUIREMENTS
 
 Import Library packages - pandas,numpy,matplotlib
+
 Load the dataset - drugdataset.csv
 
 # CODE DEPLOYMENT
 
 Step1-> Create X and Y variable for prediction
+
 Step2-> Create test and train data 
+
 Step3-> Scale the data
+
 Step4-> Perform SVM Algorithm
+
 Step5-> Perform Naive Bayes
+
 Step6-> Calculate insights of Algorithm (i.e.,precision,recall,f1score,support,accuracy,micro_avg,macro_avg)
+
 Step7-> Build Confusion Matrix
 
 # CODE FINDINGS
