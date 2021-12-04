@@ -1,5 +1,3 @@
-# Python-Implementations
-
 # PROJECT TITLE
 
 Performing SVM and Naive Bayes Algorithm
