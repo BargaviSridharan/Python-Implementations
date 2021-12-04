@@ -1,6 +1,6 @@
 # Python-Implementations
 
-#PROJECT TITLE
+PROJECT TITLE
 Performing SVM and Naive Bayes Algorithm
 
 PROJECT DESCRIPTION
